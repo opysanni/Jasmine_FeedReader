@@ -1,4 +1,4 @@
-# FreeReader Project Overview
+# FeedReader Project Overview
 
 In an existing project given to me by Udacity for my nanodegree course, using Jasmine to test if the Javascript is working properly. 
 
